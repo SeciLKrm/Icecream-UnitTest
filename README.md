@@ -13,8 +13,8 @@
 - Scoops.test
 - Toppins.test
   
- p> --> used fireEvent , userEvent for component trigger events(click,keyboard..) </p> 
-<p>-->  async await form </p>
+ <p> --> used fireEvent , userEvent for component trigger events(click,keyboard..) </p> 
+ <p> -->  async await form </p>
 
 ![](./src/assets/Animation.gif)
 
