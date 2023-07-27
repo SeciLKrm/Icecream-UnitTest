@@ -12,9 +12,9 @@
 - Form.test
 - Scoops.test
 - Toppins.test
-  -- used fireEvent , userEvent for component trigger events(click,keyboard..)
-  -- async await form
+-- used fireEvent , userEvent for component trigger events(click,keyboard..)
+-- async await form
 
 ![](./src/assets/Animation.gif)
 
-### `
+
